@@ -1,0 +1,23 @@
+The `sinfo` package has changed name and is now called `session_info` to become more discoverable and self-explanatory. The `sinfo` PyPI package will be kept around to avoid breaking old installs and you can downgrade to 0.3.2 if you want to use it without seeing this message. For the latest features and bug fixes, please install `session_info` instead. The usage and defaults also changed slightly, so please review the latest README at https://gitlab.com/joelostblom/session_info.
+-----
+ipykernel   6.25.1
+ipywidgets  8.1.3
+matplotlib  3.8.3
+numpy       1.26.4
+pandas      2.2.1
+plotly      5.22.0
+pybtex      0.24.0
+seaborn     0.13.2
+sinfo       0.3.4
+-----
+IPython             8.14.0
+jupyter_client      7.4.9
+jupyter_core        5.3.1
+jupyterlab          4.2.2
+notebook            7.2.1
+-----
+Python 3.9.6 (default, Mar 29 2024, 10:51:09) [Clang 15.0.0 (clang-1500.3.9.4)]
+macOS-14.4.1-arm64-arm-64bit
+8 logical CPU cores, arm
+-----
+Session information updated at 2024-06-26 15:47
